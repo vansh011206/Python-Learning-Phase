@@ -11,7 +11,7 @@ for i in l :
         print("everything is fine till now")  
 
 for i in l :
-    
+
     if i==4:
         continue
     print (i/2) 
